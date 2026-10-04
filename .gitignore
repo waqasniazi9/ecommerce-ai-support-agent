@@ -1,0 +1,14 @@
+﻿node_modules/
+.next/
+out/
+*.tsbuildinfo
+
+.env
+.env.local
+.env.*.local
+
+commerence -agent.json
+service-account.json
+google-service-account.json
+credentials.json
+*-service-account.json
